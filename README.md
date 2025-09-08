@@ -44,3 +44,6 @@ Features:
 Requirements:
 Python 3.x
 Libraries: colorama, tabulate
+
+
+<img width="1180" height="655" alt="185329085-eb5125d4-d608-4ffa-80f3-4812038431eb" src="https://github.com/user-attachments/assets/f8b7193e-2698-4f3f-bf36-580d693e130b" />
